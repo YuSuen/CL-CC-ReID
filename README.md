@@ -28,7 +28,7 @@ pip install regex
 
 ### Prepare Dataset
 
-Download the datasets ([PRCC](https://www.isee-ai.cn/~yangqize/clothing.html), [LTCC]([LTCC](https://naiq.github.io/LTCC_Perosn_ReID.html)), [VC-Clothes]([VC-Clothes]([VC-Clothes](https://wanfb.github.io/dataset))), [DeepChange](https://github.com/PengBoXiangShang/deepchange), [LaST](https://sites.google.com/view/personreid)), and then unzip them to `your_dataset_dir`.
+Download the datasets ([PRCC](https://www.isee-ai.cn/~yangqize/clothing.html), [LTCC](https://naiq.github.io/LTCC_Perosn_ReID.html), [VC-Clothes](https://wanfb.github.io/dataset), [DeepChange](https://github.com/PengBoXiangShang/deepchange), [LaST](https://sites.google.com/view/personreid)), and then unzip them to `your_dataset_dir`.
 
 ### Training
 
