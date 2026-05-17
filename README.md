@@ -7,7 +7,7 @@
 ### Installation
 
 ```
-conda create -n ccreid python=3.8
+conda create -n clipreid python=3.8
 
 conda activate clipreid
 
